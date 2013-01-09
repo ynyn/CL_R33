@@ -10,4 +10,5 @@ struct data{
 void main(void){
 	int size;
 	size = sizeof(struct data);
+	printf("•ÏX‚µ‚Ü‚µ‚½B\n");
 }

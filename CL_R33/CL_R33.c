@@ -4,7 +4,7 @@ struct data{
 	int scoreA;
 	int scoreB;
 	int scoreC;
-	char name[256];
+	char name[100];
 };
 
 void main(void){

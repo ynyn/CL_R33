@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 struct data{
-	int scoreE;
-	int scoreM;
-	int scoreJ;
+	int scoreA;
+	int scoreB;
+	int scoreC;
 	char name[256];
 };
 

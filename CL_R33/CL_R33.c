@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-struct data{
+struct yamada{
 	int scoreA;
 	int scoreB;
 	int scoreC;
@@ -9,6 +9,6 @@ struct data{
 
 void main(void){
 	int size;
-	size = sizeof(struct data);
+	size = sizeof(struct yamada);
 	printf("ïœçXÇµÇ‹ÇµÇΩÅB\n");
 }
